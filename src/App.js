@@ -5,7 +5,7 @@ import "./components/css/App.css";
 function App() {
   return (
     <>
-      <Nav/>
+      <Nav />
     </>
   );
 }
